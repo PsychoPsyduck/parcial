@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1525995147 source:d:\pino\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1525995099 d:\pino\parcial\cliente.h
+
+1524691840 d:\pino\parcial\utn.h
+
+1525996269 source:d:\pino\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"publicacion.h"
+
+1525996470 source:d:\pino\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+
+1525991764 source:d:\pino\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525995725 d:\pino\parcial\publicacion.h
+	"cliente.h"
+
+1525996349 source:d:\pino\parcial\informe.c
+

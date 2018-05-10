@@ -1,0 +1,6 @@
+#ifndef INFORME_H_INCLUDED
+#define INFORME_H_INCLUDED
+
+
+
+#endif // INFORME_H_INCLUDED
